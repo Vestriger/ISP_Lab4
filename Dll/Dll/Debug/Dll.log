@@ -1,0 +1,13 @@
+﻿  Source.cpp
+D:\LR\Sem2\C#\LR4\Dll\Dll\Source.cpp(8,1): warning C4273: Add: несовместимое связывание dll
+D:\LR\Sem2\C#\LR4\Dll\Dll\Header.h(10,32): message : см. предыдущее определение "Add"
+D:\LR\Sem2\C#\LR4\Dll\Dll\Source.cpp(13,1): warning C4273: Subtract: несовместимое связывание dll
+D:\LR\Sem2\C#\LR4\Dll\Dll\Header.h(12,32): message : см. предыдущее определение "Subtract"
+D:\LR\Sem2\C#\LR4\Dll\Dll\Source.cpp(18,1): warning C4273: Multiply: несовместимое связывание dll
+D:\LR\Sem2\C#\LR4\Dll\Dll\Header.h(14,32): message : см. предыдущее определение "Multiply"
+D:\LR\Sem2\C#\LR4\Dll\Dll\Source.cpp(23,1): warning C4273: Division: несовместимое связывание dll
+D:\LR\Sem2\C#\LR4\Dll\Dll\Header.h(16,32): message : см. предыдущее определение "Division"
+D:\LR\Sem2\C#\LR4\Dll\Dll\Source.cpp(28,1): warning C4273: RemainderOfTheDivision: несовместимое связывание dll
+D:\LR\Sem2\C#\LR4\Dll\Dll\Header.h(18,32): message : см. предыдущее определение "RemainderOfTheDivision"
+     Создается библиотека D:\LR\Sem2\C#\LR4\Dll\Debug\Dll.lib и объект D:\LR\Sem2\C#\LR4\Dll\Debug\Dll.exp
+  Dll.vcxproj -> D:\LR\Sem2\C#\LR4\Dll\Debug\Dll.dll
